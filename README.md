@@ -1,6 +1,6 @@
 Hi there👋! 
 
--🌱I'm currently working on web development, and I'm learning web design. 
+-🌱I'm currently working on web development
 
 -🧗‍♀️I'm also learning web design, which is a great way to expand my skills and knowledge 
     You can have a look on my learning 
