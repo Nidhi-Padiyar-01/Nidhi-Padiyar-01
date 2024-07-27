@@ -21,6 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhi-padiyar-01&show_icons=true&locale=en&layout=compact" alt="nidhi-padiyar-01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhi-padiyar-01&show_icons=true&locale=en" alt="nidhi-padiyar-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi-padiyar-01&" alt="nidhi-padiyar-01" /></p>
