@@ -24,6 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhi-padiyar-01&show_icons=true&locale=en" alt="nidhi-padiyar-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi-padiyar-01&" alt="nidhi-padiyar-01" /></p>
-
-
-![githubpic-removebg-preview](https://github.com/user-attachments/assets/24a61685-64d2-4e66-986e-aebda1503bb0)
