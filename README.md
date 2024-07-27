@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Padiyar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p></div>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F3MWk5bXNwMXN3dGt6NWQ3aDB0ano3dDkycmVuZzU5MjIxeHl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi-padiyar-01&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-padiyar-01" /> </p>
 - 🔭 I’m currently working on **RescueMeApp**
 
