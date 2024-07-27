@@ -12,4 +12,4 @@ Hi there👋!
 
 -📬Please feel free to reach out to me😊.
 
-                                                        ![githubpic-removebg-preview](https://github.com/user-attachments/assets/24a61685-64d2-4e66-986e-aebda1503bb0)
+![githubpic-removebg-preview](https://github.com/user-attachments/assets/24a61685-64d2-4e66-986e-aebda1503bb0)
