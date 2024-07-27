@@ -11,11 +11,4 @@ Hi there👋!
 -👩‍💻I'm excited to share my projects and progress with you. 
 
 -📬Please feel free to reach out to me😊.
-
-
-
-
-
-![Screenshot 2024-07-11 200920](https://github.com/user-attachments/assets/212aa959-bd3f-40a6-b369-d03f413f5c44)
-
-
+![githubpic-removebg-preview](https://github.com/user-attachments/assets/24a61685-64d2-4e66-986e-aebda1503bb0)
