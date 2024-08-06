@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi-padiyar-01&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-padiyar-01" /> </p>
 - 🔭 I’m currently working on RescueMe App
 
-- 🌱 I’m currently learning **ReactNative,WebDesign**
+- 🌱 I’m currently learning **backend**
 
 - 📫 How to reach me **padiyarnidhi05@gmail.com**
 
