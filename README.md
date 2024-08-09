@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhi Padiyar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F3MWk5bXNwMXN3dGt6NWQ3aDB0ano3dDkycmVuZzU5MjIxeHl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi-padiyar-01&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-padiyar-01" /> </p>
 - 🔭 I’m currently working on RescueMe App
