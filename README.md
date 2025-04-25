@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **padiyarnidhi05@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1AeCpz-ZiFqjK8va2c-ca4neMiro909ey/view?usp=sharing](https://drive.google.com/file/d/1ure34uv3Cc3OXi9SZL6gACOBYjA2oF4U/view?usp=drive_link)](https://drive.google.com/file/d/1l6n00iwWWhRkys9fhxg0Pq0gvhURRNPA/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1AeCpz-ZiFqjK8va2c-ca4neMiro909ey/view?usp=sharing](https://drive.google.com/file/d/1ure34uv3Cc3OXi9SZL6gACOBYjA2oF4U/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
